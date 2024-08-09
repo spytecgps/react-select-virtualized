@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { useRef, useImperativeHandle, useState, forwardRef, useMemo, memo, useCallback, useEffect } from 'react';
-import './styles.css';
+// import './styles.css';
 import { buildListComponents, getStyles } from '@rsv-lib/select';
 import { defaultGroupFormat } from '@rsv-lib/renderers';
 import 'react-virtualized/styles.css';
